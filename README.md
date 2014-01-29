@@ -10,7 +10,7 @@ Thanks to some great work by HD Moore, KARMA now lives on in the modern era as [
 
 * Attacking Automatic Wireless Network Selection [[slides]](http://www.trailofbits.com/resources/attacking_automatic_network_selection_slides.pdf) [[paper]](http://www.trailofbits.com/resources/attacking_automatic_network_selection_paper.pdf)
 * [Karmetasploit](http://dev.metasploit.com/redmine/projects/framework/wiki/Karmetasploit) documentation
-* [CNET News.com](http://news.cnet.com/Microsoft-meets-the-hackers/2009-1002_3-5747813.html) story mentioning our KARMA demo @ Microsoft’s Blue Hat summit
+* [CNET News.com](http://news.cnet.com/Microsoft-meets-the-hackers/2009-1002_3-5747813.html) story mentioning our KARMA demo at Microsoft’s Blue Hat summit
 * [Legacy KARMA README](karma.README.txt)
 * [KARMA HOWTO](http://www.wirelessdefence.org/Contents/KARMAMain.htm) at WirelessDefence.org
 
