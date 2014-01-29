@@ -4,7 +4,7 @@ KARMA is a set of tools for assessing the security of wireless clients at multip
 
 KARMA includes patches for the Linux MADWifi driver to allow the creation of an 802.11 Access Point that responds to any probed SSID. So if a client looks for `linksys`, it is `linksys` to them (even while it may be `tmobile` to someone else). Operating in this fashion has revealed vulnerabilities in how Windows XP and MacOS X look for networks, so clients may join even if their preferred networks list is empty.
 
-Thanks to some great work by HD Moore, KARMA now lives on in the modern era as [Karmetasploit](http://dev.metasploit.com/redmine/projects/framework/wiki/Karmetasploit). Karmetasploit is an integration of parts of KARMA and its ideas into the Metasploit framework.  Karmetasploit is your best option for running KARMA these days but the original KARMA software written by Dino Dai Zovi and Shane Macaulay is also available here. For an in-depth description of the KARMA attacks against wireless clients, see the whitepaper and presentation.
+Thanks to some great work by HD Moore, KARMA now lives on in the modern era as [Karmetasploit](http://dev.metasploit.com/redmine/projects/framework/wiki/Karmetasploit). Karmetasploit is an integration of parts of KARMA and its ideas into the Metasploit framework. Karmetasploit is your best option for running KARMA these days, even though the original version by Dino and Shane is available here. For an in-depth description of the KARMA attacks against wireless clients, see the whitepaper and presentation.
 
 ### Docs
 
